@@ -5,23 +5,6 @@ import time as ti
 from tkinter import messagebox
 import pyperclip as clipboard
 
-
-"""
-Instrucciones: 
-
-* Abrir Chrome: ventana izquierda, pantalla completa
-* Ir a pagina de stake // Casino // Crash // AUTO // HISTORIAL
-* Abrir menu de dev (f12) ULTIMO
-* Ubicar navegador y menu en 1410 x 975 px
-* Ubicar navegador y menu en 1410 x 1007 px
-* DEJAR TODA LA VISTA HTML
-
-DE AQUI NOS IREMOS DIRECTAMENTE A EJECUTAR PROGRAMA
-
-svelte-1y89ow9
-
-"""
-
 listaLimpia=[[],[]]
 
 def ubicaFoco(): #ENFOCA EN VENTANA

@@ -1,0 +1,18 @@
+ACLARACION:
+
+El proceso esta pensado para usarse en mi ordenador con su monitor, y su resolucion de pantalla
+en caso de querer implementarse en otro ordenador sera necesario modificar las ubicaciones a las
+apuntan los clicks en el archivo tools.py.
+
+Para una resolucion de 1920 x 1080:
+
+Instrucciones: 
+
+* Abrir Chrome: pantalla completa
+* Ir a pagina de stake // Casino // Crash // AUTO // HISTORIAL
+* Abrir menu de dev (f12) ULTIMO
+* Ubicar navegador y menu en 1410 x 975 px
+* Ubicar navegador y menu en 1410 x 1007 px
+* DEJAR TODA LA VISTA HTML
+
+DE AQUI NOS IREMOS DIRECTAMENTE A EJECUTAR PROGRAMA
